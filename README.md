@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun R. Prajapati</h1>
-<h3 align="center">A Web developer from India who loves to build frontend and backend (fullstack).)</h3>
+<h3 align="center">A Web developer from India who loves to build frontend and backend (fullstack).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunp04&label=Profile%20views&color=0e75b6&style=flat" alt="arjunp04" /> </p>
 
