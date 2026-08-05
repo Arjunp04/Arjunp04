@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋, I'm Arjun R. Prajapati</h1>
-<h3 align="center">A Web developer from India who loves to build frontend and backend (fullstack).</h3>
+<h1 align="center">Hi 👋, I'm Arjun Prajapati</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunp04&label=Profile%20views&color=0e75b6&style=flat" alt="arjunp04" /> </p>
+<h3 align="center">
+Frontend Developer | React.js | Next.js | Full-Stack Development
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunp04" alt="arjunp04" /></a> </p>
-
-- 📫 How to reach me **prajapatiarjun4147@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building modern web applications with a focus on responsive design, clean code, and seamless user experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunp04&show_icons=true&locale=en&layout=compact" alt="arjunp04" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunp04&show_icons=true&locale=en" alt="arjunp04" /></p>
+I'm a Frontend Developer specializing in React.js and Next.js, focused on building responsive, scalable, and maintainable web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunp04&" alt="arjunp04" /></p>
+I enjoy transforming ideas and designs into interactive digital experiences by creating reusable components, integrating APIs, and improving overall user experience.
+
+Along with frontend development, I have experience working with backend technologies like Node.js, Express.js, and MongoDB to build complete full-stack applications.
+
+🌱 Currently exploring TypeScript, Next.js, and scalable frontend architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Redux Toolkit
+
+**Backend & Database:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT Authentication
+
+**Tools & Workflow:** Git, GitHub, Postman, Vite, VS Code, Figma
+
+---
+
+## 🚀 What I Enjoy Building
+
+- Responsive and user-friendly web applications
+- Reusable component-based UI systems
+- API-driven applications with smooth data flow
+- Secure authentication workflows
+- Clean and maintainable frontend architectures
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: prajapatiarjun4147@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/arjun-prajapati-4ba91b285/
+
+🌐 Portfolio: https://arjunprajapati.vercel.app/
